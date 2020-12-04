@@ -24,17 +24,6 @@
     </style>
 
 <body>
-    <!--
-    <header>
-        <nav class="container">
-            <ul>
-                <li><a href="#formation">Formação Acadêmica</a></li>
-                <li><a href="#expert">Experiência</a></li>
-                <li><a href="#contato">Contato</a></li>
-            </ul>
-        </nav>
-    </header>
-    -->
     <h1>Currículo - Rafael Trindade</h1>
     <main>
 	<section id="formation">
@@ -46,13 +35,13 @@
 			<li>
 				<strong>Universidade Veiga de Almeida</strong>: 2018-2020
 			</li>
-            <li>Português: Nível Alto</li>
-			<li>Inglês: Nível Alto</li>
-            <li>Japonês: Nível Iniciante</li>
+            <li>Português: Nativo</li>
+			<li>Inglês: Fluente</li>
+            <li>Japonês: Básico</li>
 			</ul>
 	</section>
 	<section id="expert">
-		<h3>Experiência</h3>
+		<h3>Experiência Acadêmica</h3>
 		<ul>
 			<li>Formado no Ensino Técnico de Informática do Centro Educacional Esplanada, 2017</li>
 		</ul>
@@ -70,34 +59,9 @@
 	<hr>
     <nav class="container">
             <ul>
-                <li><a href="http://andreybarbosa.tk">Início</a></li>
-                <li><a href="http://andreybarbosa.tk/portifolio.html">Portifolio</a></li>
-                 <li><a href="http://andreybarbosa.tk/contatc.html">Formulario (contato)</a></li>
+                <li><a href="rtlauportfolio.github.io">Portifólio</a></li>
+                 <li><a href="file:///D:/Rafael%20(Coisas%20mais%20Pesadas)/Rafael/Interfaces%20web/Contato%20para%20o%20Site%20Bizarro/index.html">Contato</a></li>
             </ul>
         </nav>
-    <!-- 
-	brincando 
-
-		<ul>
-			<li>Os maiores clássicos
-			  <ul>
-				  <li>Flamengo x Vasco</li>
-				   <li>Gremio x Internacional</li>
-				   <li>Atletico MG x Cruzeiro</li>
-				   <li>Palmeiras x Corinthians</li>
-				   <li>São Paulo x Corinthians</li>
-				   <li>Botafogo x Fluminese</li>
-				   <li>Fortaleza x Ceara</li>
-			  </ul>
-			</li>
-			<li>Os piores clássicos
-			<ul>
-				<li>Flamengo x Botafogo</li>
-				<li>Flamengo x Fluminense</li>
-				<li>Vasco x Madureira</li>
-			</ul>
-			</li>
-		</ul>
-	-->
 
 </body></html>
